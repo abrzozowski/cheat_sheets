@@ -25,3 +25,9 @@
 | [VI Help Sheet outlined](https://bitbucket.org/abrzozowski/cheat_sheets/src/master/tools/vim/VI Help Sheet outlined.pdf) | [gosquared.com](http://downloads.gosquared.com/help_sheets/10/VI%20Help%20Sheet%20outlined.pdf) |
 | [VIM-Cheat-Sheet](https://bitbucket.org/abrzozowski/cheat_sheets/src/master/tools/vim/VIM-Cheat-Sheet.jpg) | http://i.imgur.com/TVmDF.png |
 | [vi](https://bitbucket.org/abrzozowski/cheat_sheets/src/master/tools/vim/vi.odt) | [linux.subogero.com](http://linux.subogero.com/wp-content/uploads/2011/07/vi.odt) |
+
+## Visual Studio Code
+
+| Cheat Sheet | Source |
+|-------------|--------|
+| [keyboard-shortcuts-linux](https://bitbucket.org/abrzozowski/cheat_sheets/src/master/tools/visualstudio_code/keyboard-shortcuts-linux.pdf) | [code.visualstudio.com](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) |
