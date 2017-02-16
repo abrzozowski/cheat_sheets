@@ -8,6 +8,29 @@ Here is a list of Help Sheets
 |-------------|--------|
 | [Kali_Linux_Cheat_Sheet](os/linux/Kali_Linux_Cheat_Sheet.png) | [latesthackingnews.com](https://www.latesthackingnews.com/wp-content/uploads/2015/08/Kali_Linux_Cheat_Sheet.png) |
 
+# IDE
+
+## VIM
+
+| Cheat Sheet | Source |
+|-------------|--------|
+| [vim_cheat_sheet_for_programmers_print](ide/vim/vim_cheat_sheet_for_programmers_print.png) | [michael.peopleofhonoronly.com](http://michael.peopleofhonoronly.com/vim/vim_cheat_sheet_for_programmers_print.png) |
+| [VI Help Sheet outlined](ide/vim/VI_Help_Sheet_outlined.pdf) | [gosquared.com](http://downloads.gosquared.com/help_sheets/10/VI%20Help%20Sheet%20outlined.pdf) |
+| [VIM-Cheat-Sheet](ide/vim/VIM-Cheat-Sheet.jpg) | [i.imgur.com](http://i.imgur.com/TVmDF.png) |
+| [vi](ide/vim/vi.odt) | [linux.subogero.com](http://linux.subogero.com/wp-content/uploads/2011/07/vi.odt) |
+
+## Visual Studio Code
+
+| Cheat Sheet | Source |
+|-------------|--------|
+| [keyboard-shortcuts-linux](ide/visualstudio_code/keyboard-shortcuts-linux.pdf) | [code.visualstudio.com](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) |
+
+## CLion JetBrains
+
+| Cheat Sheet | Source |
+|-------------|--------|
+| [CLion_ReferenceCard](ide/clion/CLion_ReferenceCard.pdf) | [jetbrains.com](https://resources.jetbrains.com/assets/products/clion/CLion_ReferenceCard.pdf) |
+
 # Robotics
 
 ## ROS
@@ -18,21 +41,6 @@ Here is a list of Help Sheets
 | [ROScheatsheet_catkin](robotics/ros/ROScheatsheet_catkin.pdf) | [github.com](https://github.com/ros/cheatsheet/releases/download/0.0.1/ROScheatsheet_catkin.pdf) |
 
 # Tools
-
-## VIM
-
-| Cheat Sheet | Source |
-|-------------|--------|
-| [vim_cheat_sheet_for_programmers_print](tools/vim/vim_cheat_sheet_for_programmers_print.png) | [michael.peopleofhonoronly.com](http://michael.peopleofhonoronly.com/vim/vim_cheat_sheet_for_programmers_print.png) |
-| [VI Help Sheet outlined](tools/vim/VI_Help_Sheet_outlined.pdf) | [gosquared.com](http://downloads.gosquared.com/help_sheets/10/VI%20Help%20Sheet%20outlined.pdf) |
-| [VIM-Cheat-Sheet](tools/vim/VIM-Cheat-Sheet.jpg) | [i.imgur.com](http://i.imgur.com/TVmDF.png) |
-| [vi](tools/vim/vi.odt) | [linux.subogero.com](http://linux.subogero.com/wp-content/uploads/2011/07/vi.odt) |
-
-## Visual Studio Code
-
-| Cheat Sheet | Source |
-|-------------|--------|
-| [keyboard-shortcuts-linux](tools/visualstudio_code/keyboard-shortcuts-linux.pdf) | [code.visualstudio.com](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) |
 
 ## Bash
 
