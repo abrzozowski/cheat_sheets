@@ -31,6 +31,14 @@ Here is a list of Help Sheets
 |-------------|--------|
 | [CLion_ReferenceCard](ide/clion/CLion_ReferenceCard.pdf) | [jetbrains.com](https://resources.jetbrains.com/assets/products/clion/CLion_ReferenceCard.pdf) |
 
+### Shortcuts
+
+| Action | Shortcut | Source |
+|--------|----------|--------|
+| Multiple cursors | **Alt+Shift**, then select with mouse | [jetbrains.com](https://blog.jetbrains.com/clion/2016/07/become-multi-armed-with-clions-multiple-cursors/) |
+| | **Ctrl** twice then hold down and move **up/down** | |
+| | Select word then press **Alt+J** (press **Shift+Alt+J** to remove one)| |
+
 # Robotics
 
 ## ROS
