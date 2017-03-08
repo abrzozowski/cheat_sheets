@@ -38,6 +38,7 @@ Here is a list of Help Sheets
 | Multiple cursors | **Alt+Shift**, then select with mouse | [jetbrains.com](https://blog.jetbrains.com/clion/2016/07/become-multi-armed-with-clions-multiple-cursors/) |
 | | **Ctrl** twice then hold down and move **up/down** | |
 | | Select word then press **Alt+J** (press **Shift+Alt+J** to remove one)| |
+| Switch header/sources | **Ctrl+Alt+Home** | [jetbrains.com](https://www.jetbrains.com/help/clion/2016.3/navigation-in-source-code.html) |
 
 # Robotics
 
