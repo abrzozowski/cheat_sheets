@@ -25,6 +25,11 @@ Here is a list of Help Sheets
 |-------------|--------|
 | [keyboard-shortcuts-linux](ide/visualstudio_code/keyboard-shortcuts-linux.pdf) | [code.visualstudio.com](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) |
 
+| Action | Solution | Source |
+|--------|----------|--------|
+| Multi-line regular expression | `[\s\S\r]+` | [stackoverflow](https://stackoverflow.com/a/41151078/5139023) |
+
+
 ## CLion JetBrains
 
 | Cheat Sheet | Source |
