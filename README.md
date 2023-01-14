@@ -63,3 +63,9 @@ Here is a list of Help Sheets
 | [44jqQ](tools/bash/44jqQ.png) | [imgur.com](http://imgur.com/44jqQ) |
 | [bash_help_sheet](tools/bash/bash_help_sheet.jpg) ([pdf](tools/bash/bash-help-sheet.pdf)) | [shell-tips.com](https://www.shell-tips.com/posts/6/) |
 | [Bash.Shortcuts](tools/bash/Bash.Shortcuts.pdf) | [beerpla.net](http://beerpla.net/downloads/Bash.Shortcuts.pdf) |
+
+## C++
+
+| Cheat Sheet | Source |
+|-------------|--------|
+| [map](tools/cpp/map.png) | [hackingcpp.com](https://hackingcpp.com/cpp/cheat_sheets.html) |
